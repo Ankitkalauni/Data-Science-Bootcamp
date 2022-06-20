@@ -1,5 +1,5 @@
 # Data-Science-Bootcamp
-## Full Stack Data Science Bootcamp by iNeuron
+## <a href = "https://courses.ineuron.ai/Full-Stack-Data-Science-Bootcamp">Full Stack Data Science Bootcamp by iNeuron</a>
 
 
 Full-stack data science course is a live mentor-led job guaranteed certification program with a full-time one-year internship provided by iNeuron, in this course you will learn the entire stack required to work in the data science, data analytics, and big data domain, including machine learning, deep learning, computer vision NLP and Big data including MLOps and cloud infrastructure, along with real-time industry projects and product development with the iNeuron product development team, which will enable you to contribute on various levels.
@@ -62,4 +62,30 @@ ___
 - Dedication to learn
 
 
-Social Links:
+___
+
+## **Course Feature**
+
+- Full stack Data Science master’s certification
+- Job guarantee otherwise refund
+- One year of internship Anytime
+- 1:1 Personalized Mentorship
+- Revision Classes
+- Online Instructor-led learning: Live teaching by instructors
+- 56 + hands-on industry real-time projects.
+- 500 hours live interactive classes.
+- Every week doubt clearing session after the live classes.
+- Lifetime Dashboard access
+- Doubt clearing one to one
+- Doubt clearing through mail and skype support team
+- Assignment in all the module
+- Quiz in every module
+- A live project with real-time implementation
+- Resume building Anytime
+- Career guidance Anytime
+- Interview Preparation Anytime
+- Regular assessment
+- Job Fair and Internal Hiring
+- Mock Interview Anytime
+
+Social Links: ineuron.ai
